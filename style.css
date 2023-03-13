@@ -1,0 +1,467 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ ul {
+    list-style: none;
+ }
+
+
+ a {
+    text-decoration: none;
+ }
+ .header {
+    width: 100%;
+   
+ }
+
+
+ .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1086px;
+    margin: auto;
+
+ }
+ .nav {
+    width: 100%;
+    height: 56px;
+ }
+
+.list {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+}
+.link {
+    padding: 16px;
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+    line-height: 24px;
+}
+.nav {
+    width: 100%;
+    height: 56px;
+   
+}
+.word {
+    margin-top: 16px;
+}
+
+.link:hover {
+    background: #00BAFC;
+    color: white;
+}
+.word1 {
+    max-width: 470px;
+    max-height: 78px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 30px;
+
+}
+.product {
+    width: 100%;
+    height: 418px;
+}
+
+.text {
+    width: 465px;
+    height: 74px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 16px;
+    
+}
+.btn {
+    padding: 8px 16px;
+    margin-top: 16px;
+max-width: 232px;
+max-height: 40px;
+background: #00BAFC;
+color: white;
+line-height: 24px;
+border-radius: 4px;
+}
+
+.container1 {
+    width: 1086px;
+  margin: auto;
+    display: flex;
+
+  
+}
+.product__part1 {
+    padding: 97px 86px 97px 0;
+    line-height: 24px;
+}
+.video {
+    padding: 80px 0 80px  76px;
+
+}
+
+.section__span {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 56px 0 8px 0;
+
+}
+.part01 {
+    text-align: center;
+}
+.text1 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding: 8px 0 16px 0;
+}
+
+
+.website__img {
+    width: 202.79px;
+    height: 130px;
+    margin: 24px 59px 16px;
+
+  
+
+}
+.span1 {
+    font-size: 20px;
+    font-weight: 700;
+  margin-left: 87px;
+    align-items: center;
+   
+
+
+}
+.text2 {
+    font-size: 16px;
+    font-weight: 400;
+  margin-left: 112px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+
+.part02 {
+    width: 100%;
+    height: 576px;
+}
+.container2 {
+    width: 1086px;
+    margin: auto;
+    
+}
+.website {
+    margin-top: 8px;
+    margin-right: 80px;
+    width: 300px;
+    max-height: 260px;
+  padding: 8px 35px 35px 0;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.032);
+ box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.3);
+}
+.container2 {
+    display: flex;
+}
+.website__smm {
+   font-weight: 700;
+    font-weight: 20px;
+  margin-left: 135px;
+
+}
+.part02 {
+    width: 100%;
+    height: 576px;
+
+}
+.container3 {
+    width: 1086px;
+    display: flex;
+   margin: auto;
+   margin-top: 48px;
+   justify-content: center;
+}
+
+.submit {
+    width: 100%;
+    display: flex;
+ justify-content: center;
+ margin-top: 40px;
+}
+
+.text3 {
+    margin-left: 40px;
+  margin-top: 20px;
+   /* padding-left: 16px;  */
+   color:#00BAFC ;
+   border-bottom: 2px solid #00BAFC;
+ 
+}
+.btn {
+ width: 100%;
+ text-align: center;
+}
+
+.product1 {
+    width: 100%;
+    height: 1675px;
+
+}
+.part03 {
+margin-top: 56px;
+text-align: center;
+}
+.span2 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 56px;
+}
+.text4 {
+    margin-top: 16px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+.container4 {
+    width: 1086px;
+    margin: auto;
+    display: flex;
+}
+.img {
+    width: 300px;
+    height: 278px;
+    margin-top: 24px;
+}
+.span3 {
+ font-size: 20px;
+ font-weight: 700;
+
+
+}
+
+.pair2 {
+    
+    margin-top: 122px;
+    margin-left: 25px;
+}
+
+
+
+.pair1 {
+
+    margin-top: 122px;
+    margin-left: 25px;
+}
+.text5 {
+  
+    padding-top: 8px;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 400
+}
+.part04 {
+    margin-left: 243px;
+}
+.btn:hover {
+ background: blue;
+ color: white;
+}
+.img1 {
+    width: 300px;
+    height: 278px;
+    margin-top: 24px;
+   margin-right: 80px;
+}
+
+.container5 {
+    width: 1086px;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+ 
+     margin-left: 0px;
+}
+.pair {
+  
+    margin-top: 122px;
+    padding-right: 177px;
+   
+}
+.part05 {
+    margin-left: 200px;
+    margin-top: 53px;
+}
+.part06 {
+    width: 100%;
+    height: 543px;
+    background: #00BAFC;
+}
+
+.table {
+ width: 348px;
+height: 308px;
+    background: white;
+    
+}
+
+.text18 {
+    width: 300px;
+    height: 56px;
+    background-color: #F3F3F3;
+   border-radius: 3px;
+   transform: translateY(-30px);
+  margin-left: -6px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container5 {
+    width: 1086px;
+ 
+}
+.span4 {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    margin-left: 170px;
+  
+  
+}
+.text6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    margin-top: 16px;
+    line-height: 24px;
+}
+.product2 {
+    margin-top: 56px;
+}
+.table {
+    margin: auto;
+    margin-top: 16px;
+    border-radius: 5px;
+
+}
+.text7 {
+    width: 300px;
+    height: 56px;
+    margin-top: 24px;
+    margin-left: 24px;
+    background: #F3F3F3;
+    border-radius: 3px;
+}
+
+.text8 {
+    width: 300px;
+    height: 56px;
+    margin-top: 4px;
+    margin-left: 24px;
+    background: #F3F3F3;
+    border-radius: 3px;
+}
+.btn3 {
+    padding: 8px 16px;
+    margin-top: 16px;
+max-width: 180px;
+max-height: 40px;
+background: #00BAFC;
+color: white;
+line-height: 24px;
+border-radius: 4px;
+margin: auto;
+text-align: center;
+}
+
+.part07 {
+    width: 200px;
+    height: 40px;
+    padding: 30px;
+   
+}
+
+.btn3:hover {
+    background: blue;
+    color: white;
+}
+
+.container6 {
+    width: 1086px;
+    display: flex;
+  margin: auto;
+}
+
+.footer {
+    width: 100%;
+    height: 338px;
+    background: black;
+
+
+}
+.part08 {
+    margin-top: 56px;
+
+}
+
+.text9 {
+    margin-top: 24px ;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-left: -2px;
+color: white;
+}
+.span5 {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+  
+}
+
+.part10 {
+margin-top: 60px;
+margin-left: 87px;
+}
+
+.part09 {
+    margin-top: 56px;
+    margin-left: 100px;
+
+}
+.span6 {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  color: white;
+
+}
+.link1 {
+    font-size: 16px;
+    font-weight: 400;
+color: white;
+    line-height: 24px;
+}
+.list2 {
+margin-top: 16px
+}
+.span7 {
+color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
